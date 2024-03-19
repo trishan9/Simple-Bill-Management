@@ -1,0 +1,7 @@
+Bill breakdown: 
+Samosa:                   ...$2 
+Pizza:                    ...$60 
+Buff Momo:                ...$10 
+Coke:                     ...$5 
+tip:                      ...$50 
+total:                    ...$127 
